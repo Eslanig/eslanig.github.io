@@ -1,5 +1,5 @@
 body {
     background-image: url("tlo.png");
-    width: 1080px;
-    height: 2278px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
 }
